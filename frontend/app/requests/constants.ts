@@ -1,0 +1,1 @@
+export const REQUEST_DOMAIN = 'http://localhost:3001';
