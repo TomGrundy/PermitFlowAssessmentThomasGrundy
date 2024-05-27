@@ -5,6 +5,8 @@
 ### Short description of approach taken
 I have short descriptions for this project, split into two README.md files, in the backend and frontend folders.
 
+Here's the unlisted YouTube video of me running through it: https://youtu.be/Yh8_QAqwB6o 
+
 ### How to build/run
 
 **backend**
